@@ -19,7 +19,7 @@ p {
 
 a {
   color: orangered;
-  text-decoration: none;
+  text-decoration: underline;
   font-weight: 700;
 }
 

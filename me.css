@@ -19,7 +19,7 @@ p {
 
 a {
   color: rgb(255, 255, 123);
-  text-decoration: none;
+  text-decoration: underline;
   font-weight: 700;
 }
 
